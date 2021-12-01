@@ -9,13 +9,13 @@ Watch [Installation of Intellij IDEA](https://www.youtube.com/watch?v=qnoVsB7uIc
 
 ## Atomic Kotlin
 ### Theory
-For the basic programming concepts and the first exercises we will use the edutools plugin. This allows you to solve given problems and directly check whether your solution is correct. As content, we will use the tasks from the [Atomic Kotlin](https://www.atomickotlin.com/) book. 
+For the basic programming concepts and the first exercises we will use the edutools plugin. This allows you to solve given problems and directly check whether your solution is correct. As content, we will use the exercises from the [Atomic Kotlin](https://www.atomickotlin.com/) book. 
 
 ### Action
 
-[Install Atomic Kotlin](https://plugins.jetbrains.com/plugin/10081-edutools/docs/install-edutools-plugin.html)
+[Install Edutools](https://plugins.jetbrains.com/plugin/10081-edutools/docs/install-edutools-plugin.html)
 
-[Start guide](https://plugins.jetbrains.com/plugin/10081-edutools/docs/learner-start-guide.html?section=Atomic%20Kotlin)
+[Install Atomic Kotlin Exercises](https://plugins.jetbrains.com/plugin/10081-edutools/docs/learner-start-guide.html?section=Atomic%20Kotlin)
 
 ---
 
