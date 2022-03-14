@@ -10,6 +10,8 @@ Variables are named containers for a single piece of information. In Kotlin, the
 
 Read more about [var & val](https://leanpub.com/AtomicKotlin/read_sample)
 
+Watch [this video](https://www.youtube.com/watch?v=HLvRzBjx7hk&list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9&index=4) until 8:57. We will cover the content of the rest of the video in the next section, but of course you can watch it also here ;-)
+
 ### Action
 
 Solve Exercises 1-5 of the Atomic Kotlin Course
