@@ -17,6 +17,8 @@ For the basic programming concepts and the first exercises we will use the eduto
 
 [Install Atomic Kotlin Exercises](https://plugins.jetbrains.com/plugin/10081-edutools/docs/learner-start-guide.html?section=Atomic%20Kotlin)
 
+[Watch Introduction to EduTools Video](https://www.youtube.com/watch?v=AFitT7UVJ5Q)
+
 ---
 
 [back](../)
