@@ -4,8 +4,10 @@ In this course we will use the language [Kotlin](https://kotlinlang.org/) to sta
 
 ### Teaching Units
 
-1. [Setup](./Setup/setup.html): Where you will install the needed environment (IDE, Exercises)
-2. [Hello World](./HelloWord/helloworld.html): Where you will run yor first Kotlin program.
+1. [Setup](./Setup/setup.md): Where you will install the needed environment (IDE, Exercises)
+2. [Hello World](./HelloWorld/helloworld.md): Where you will run yor first Kotlin program.
 3. [Variables](./VariablesAndDataTypes/variables.md): Where you will learn about two different types of variables in Kotlin.
 4. [Data Types](./VariablesAndDataTypes/datatypes.md): Where you store different things in variables.
-5. [Your First Android Program](./DiceApp/emptyproject.html): Where you will generate your first Android program!
+5. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code.
+6. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
+7. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
