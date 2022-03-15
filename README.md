@@ -10,4 +10,6 @@ In this course we will use the language [Kotlin](https://kotlinlang.org/) to sta
 4. [Data Types](./VariablesAndDataTypes/datatypes.md): Where you store different things in variables.
 5. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code.
 6. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
-7. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
+7. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
+8. when: after introduction of ranges
+9. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!

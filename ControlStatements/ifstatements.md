@@ -15,7 +15,7 @@ Now that we know how to check for a condition, you can see how to use it to [con
 
 Go over the [if Expression](https://stepik.org/lesson/104307/step/1?unit=78865) section of Atomic Kotlin and then solve the exercises 1-4 in the IDE.
 
-Following, check the [Booleans section](https://stepik.org/lesson/104310/step/1?unit=78868) and solve the exercises 1 and 4. In Exercise 1, substitute the TODO() with true / false.
+Following, check the [Booleans section](https://stepik.org/lesson/104310/step/1?unit=78868) and solve the exercises 1, 3 and 4. In Exercise 1, substitute the TODO() with true / false.
 
 ---
 
