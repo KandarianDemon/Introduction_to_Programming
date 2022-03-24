@@ -11,5 +11,7 @@ In this course we will use the language [Kotlin](https://kotlinlang.org/) to sta
 5. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code.
 6. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
 7. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
-8. when: after introduction of ranges
-9. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
+8. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
+9. when: after introduction of ranges
+10. lists
+11. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
