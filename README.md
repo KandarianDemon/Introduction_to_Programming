@@ -10,13 +10,13 @@ In this course you will learn how to program simple android apps in Kotlin. In t
 
 Did you ever want to write your own Android App? Did you want to learn coding? Did you want to give your CV a special edge? Then this course might be interesting for you.
 
-In this course you will learn the programming language [Kotlin](https://kotlinlang.org/) and use it to program your own Android Apps. In 2019, Google announced that Android development is [Kotlin first](https://android-developers.googleblog.com/2019/12/androids-commitment-to-kotlin.html). In 2020, 70% of the top 1000 apps on the Play Store were written in Kotlin. But there is more. You can program your own web services (backend) and web clients (frontend) in Kotlin. Additionally, you can even use Kotlin for data science! And of course there is a growing data science. So you can be sure that you are learning a language wich is relevant today and will stay relevant in the future. This [summary Video](https://www.youtube.com/watch?v=CQlBQ5tfbHE&list=PLlFc5cFwUnmzT4cgLOGJYGnY6j0W2xoFA&index=2) gives you an impression which universities use Kotlin in education and why they do so.
+In this course you will learn the programming language [Kotlin](https://kotlinlang.org/) and use it to program your own Android Apps. In 2019, Google announced that Android development is [Kotlin first](https://android-developers.googleblog.com/2019/12/androids-commitment-to-kotlin.html). In 2020, 70% of the top 1000 apps on the Play Store were written in Kotlin. But there is more. You can program your own web services (backend) and web clients (frontend) in Kotlin. Additionally, you can even use Kotlin for data science! So you can be sure that you are learning a language wich is relevant today and will stay relevant in the future. This [summary Video](https://www.youtube.com/watch?v=CQlBQ5tfbHE&list=PLlFc5cFwUnmzT4cgLOGJYGnY6j0W2xoFA&index=2) gives you an impression which universities use Kotlin in education and why they do so.
 
 #### Course Structure
 
 This course is structured as [inverted classroom](https://en.wikipedia.org/wiki/Flipped_classroom). That means that within the week you will work self-paced and solve programming tasks. You will learn about the theoretical background of the weeks assignment by written information as well as by videos. Every thursday, we will meet and talk about problems, ideas and challenges you run into. With this format, you will not only learn the needed programming skills, but also how to gather information, teach and improve by yourself. Especially in a fast developing field like programming this is a fundamental skill. As it can be quite frustrating if you run into a problem and are stuck (own experience here), I also created a Discord channel for this course which will allow you to interact with other students.
 
-In the first eight topics, you will learn the necessary basic skills to write an Android App. Here, we will use exercise from the [Atomic Kotlin](https://www.atomickotlin.com/) book which you will solve directly in the [Integrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment). In parallel, you will apply the new concepts to program [your first App](https://github.com/Joerg-Schultz/DiceApp) and learn about basic concepts of Android programming.
+In the first eight topics, you will learn the necessary basic skills to write an Android App. Here, we will use exercise from the [Atomic Kotlin](https://www.atomickotlin.com/) book. You will solve this tasks directly in the [Integrated Development Environment](https://en.wikipedia.org/wiki/Integrated_development_environment) you will also use for coding your Apps. In parallel, you will apply the new concepts to program [your first App](https://github.com/Joerg-Schultz/DiceApp) and learn about basic concepts of Android programming.
 
 In the second part, which will be about four weeks, you will apply your knowledge. You will pitch the idea of your own App to the course, and we will discuss which additional features are needed. Then you will program it - either on your own or as a small dev-team. We will meet again every week and each developer / team can present new features they learned. And of course discuss problems they ran into.
 
@@ -69,3 +69,7 @@ Programming Tools
 
 #### Other 
 12. Git, Github, integration into IntelliJ IDEA
+
+#### Final Unit
+
+Deploy your App to the Play Store!
