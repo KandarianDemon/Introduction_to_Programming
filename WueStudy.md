@@ -4,11 +4,11 @@ Dieser Kurs findet online statt.
 
 ### Inhalte
 
-Wolltest du schon immer deine eigenen Android-Apps programmieren? Oder generell Programmieren lernen? Oder deinen Lebenslauf mit einer neuen Qualifikation optimieren? Dann könnte dieser Kurs für dich interessant sein. Hier lernst du (i) die Grundlagen der Programmierung (ii) spezifische Tools der Android Programmierung und (iii) den Umgang mit Standard Programmierwerkzeugen / -verfahren. Und da man Programmieren nur durch Programmieren lernt, ist der Fokus auf 'Hands-on' arbeiten (siehe Lehrmethoden).
+Schonmal den gesamten Play Store durchsucht aber keine App gefunden, die das kann, was du brauchst? Dann schreib doch deine eigene App! Zu schwer? In diesem Kurs lernst du alles, was dazu nötig ist. 
 
-In diesem Kurs verwenden wir die Programmiersprache 'Kotlin'. Seit 2019 ist Kotlin für Google die primäre Android-Programmiersprache. Tatsächlich wurden schon 2020 70 % der Top 1.000 Apps im Play Store in Kotlin programmiert. Aber Kotlin kann mehr. Ihr könnt Web-Server, Web-Clients und auch Stand-alone Programme in Kotlin schreiben. Und inzwischen gibt es auch immer mehr Tools für 'Data-Science'. Du wirst also eine Programmiersprache lernen, die jetzt relevant ist und auch in näherer Zukunft bleiben.
+Wir arbeiten mit der Programmiersprache 'Kotlin'. Seit 2019 ist Kotlin für Google die primäre Android-Programmiersprache. Tatsächlich wurden schon 2020 70 % der Top 1.000 Apps im Play Store in Kotlin programmiert. Aber Kotlin kann mehr. Du kannst Web-Server, Web-Clients und auch Stand-alone Programme in Kotlin schreiben. Und inzwischen gibt es auch immer mehr Tools für 'Data-Science'. Du wirst also eine Programmiersprache lernen, die jetzt relevant ist und auch in näherer Zukunft bleiben.
 
-Was genau wirst du lernen?
+ Dieser kurs vermittelt dir (i) die Grundlagen der Programmierung, (ii) spezifische Tools der Android Programmierung und (iii) den Umgang mit Standard Programmierwerkzeugen / -verfahren. Und da man Programmieren nur durch Programmieren lernt, ist der Fokus auf 'Hands-on' arbeiten (siehe Lehrmethoden). Was genau wirst du lernen?
 
 Grundlagen der Programmierung
 - Wie speichere ich etwas so, dass ich es im Programm ändern kann (Variablen)
@@ -46,10 +46,10 @@ Nach Abschluss des Kurses sind die Teilnehmenden mit den Grundlagen imperativer 
 
 ### Literatur
 
-Atomic Kotlin https://www.atomickotlin.com/
-Youtube Kanäle:
-- https://www.youtube.com/c/PhilippLackner
-- https://www.youtube.com/c/smartherd
+- Atomic Kotlin https://www.atomickotlin.com/
+- Youtube Kanäle:
+  - https://www.youtube.com/c/PhilippLackner
+  - https://www.youtube.com/c/smartherd
 
 ### Qualifikationsziel
 
@@ -59,7 +59,7 @@ Studierende Bachelor Biologie
 
 ### Zu erbringende (Prüfungs-)Leistung
 
-Programmierung und Vorstellung einer eigenen Android App.
+Programmierung und Vorstellung einer eigenen Android-App.
 
 ### Zu erbringende Studienleistung
 
