@@ -55,10 +55,9 @@ Programming Tools
 6. And change the displayed text
 
 #### 2. Functions (and Nullability)
-
-7. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
-8. Maybe Nullability here?
-9. Android Button setzt Variable plus text input field (for the fun of it)
+7. Nullability (or leave this out for now?)
+8. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
+10. Android Button setzt Variable plus text input field (for the fun of it)
 
 #### 3. Loops
 10. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
