@@ -56,25 +56,37 @@ Programming Tools
 
 #### 2. Functions
 
-5. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code.
-10. Android Button setzt Variable plus text input field (for the fun of it)
+5. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
+6. Android Button setzt Variable plus text input field (for the fun of it)
 
 #### 3. Loops
-6. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
-7. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
-8. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
-9. when: after introduction of ranges
+7. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
+8. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
+9. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
+10. when: after introduction of ranges
+11. Android: (i) Count how many times you pressed a button (ii) generate random number and display it
 
 #### 4. Collections
 11. Exceptions (for capture {} and to know what they are)
 12. [Lists](./Collections/lists.md): Where you will work with a container that can hold multiple things
 13. Sets
 14. Maps
-15. 
+15. Android: Generate a list of the random values and display this growing list in a text field.
+
+#### 5. Classes
+
+Android generate a dice class.
+
+#### 6. MVVM
 
 
-#### Other 
-12. Git, Github, integration into IntelliJ IDEA
+#### 7. Navigation
+
+
+#### 8. git, github + Pitch
+
+
+#### Program your own App!
 
 #### Final Unit
 

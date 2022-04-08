@@ -6,7 +6,7 @@ Lists are, as the name already says, collections ordered collections of things. 
 
 As always, read your [Atom](https://stepik.org/lesson/104335/step/1?unit=78895)
 
-Here's a pretty extensive [video](https://www.youtube.com/watch?v=CDWy16UDeLQ) about what you can do with lists in Kotlin. Don't get overwhelmed, just put a note somewhere into your brain that, before programming some list functionality, check whether Kotlin not already provides it!
+Here's a pretty extensive [video](https://www.youtube.com/watch?v=CDWy16UDeLQ) about what you can do with lists in Kotlin. Don't get overwhelmed, just put a note somewhere into your brain that, before programming some list functionality, check whether Kotlin not already provides it! Btw, here's the [Blog-Post](https://dev.to/kotlin/exploring-kotlin-lists-in-2021-2gi) for this video, if you want to copy paste some code.
 
 ### Actions
 
