@@ -45,7 +45,7 @@ Programming Tools
 
 ### Teaching Units
 
-#### First Unit
+#### 1. Setup and Variables
 
 1. [Setup](./Setup/setup.md): Where you will install the needed environment (IDE, Exercises)
 2. [Hello World](./HelloWorld/helloworld.md): Where you will run yor first Kotlin program.
@@ -54,17 +54,23 @@ Programming Tools
 5. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
 6. And change the displayed text
 
-#### Second Unit
+#### 2. Functions
 
 5. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code.
+10. Android Button setzt Variable plus text input field (for the fun of it)
+
+#### 3. Loops
 6. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
 7. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
 8. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
 9. when: after introduction of ranges
-10. Android Button setzt Variable plus text input field (for the fun of it)
 
-#### Third Unit
-11. lists
+#### 4. Collections
+11. Exceptions (for capture {} and to know what they are)
+12. [Lists](./Collections/lists.md): Where you will work with a container that can hold multiple things
+13. Sets
+14. Maps
+15. 
 
 
 #### Other 
