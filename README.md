@@ -54,7 +54,7 @@ Programming Tools
 5. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
 6. And change the displayed text
 
-#### 2. Functions
+#### 2. Functions (and Nullability)
 
 7. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
 8. Maybe Nullability here?
@@ -72,7 +72,7 @@ Programming Tools
 16. [Lists](./Collections/lists.md): Where you will work with a container that can hold multiple things
 17. [Sets](./Collections/sets.md): Where you will generate Containers which contain just unique elements.
 18. [Maps](./Collections/maps.md): Where you will learn to build a key-value stat structure.
-19. [Summary](./Collections/wrap_up.md): Just a summary of all these Collections.
+19. [Summary](./Collections/wrap_up.md): Just a summary of all these Collections plus some additional cool functions to work with them.
 20. Android: Generate a list of the random values and display this growing list in a text field.
 
 #### 5. Classes
