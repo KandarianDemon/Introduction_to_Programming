@@ -71,8 +71,9 @@ Programming Tools
 15. Exceptions (for capture {} and to know what they are)
 16. [Lists](./Collections/lists.md): Where you will work with a container that can hold multiple things
 17. [Sets](./Collections/sets.md): Where you will generate Containers which contain just unique elements.
-18. Maps
-19. Android: Generate a list of the random values and display this growing list in a text field.
+18. [Maps](./Collections/maps.md): Where you will learn to build a key-value stat structure.
+19. [Summary](./Collections/wrap_up.md): Just a summary of all these Collections.
+20. Android: Generate a list of the random values and display this growing list in a text field.
 
 #### 5. Classes
 
