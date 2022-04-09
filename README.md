@@ -76,7 +76,12 @@ Programming Tools
 
 #### 5. Classes
 
-Android generate a dice class (+ Test?).
+21. [Classes](./Classes/classes.md): Where you will have first contact with the basic unit of object-oriented programming - the class.
+22. Inheritance?
+23. Visibility
+24. Android generate a dice class.
+
+Data classes
 
 #### 6. MVVM
 
@@ -84,7 +89,7 @@ Android generate a dice class (+ Test?).
 #### 7. Navigation
 
 
-#### 8. git, github, gitpages, Dokka? + Pitch
+#### 8. git, github, gitpages, Dokka, Testing :o
 
 
 #### Program your own App!
