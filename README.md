@@ -77,9 +77,9 @@ Programming Tools
 #### 5. Classes
 
 21. [Classes](./Classes/classes.md): Where you will have first contact with the basic unit of object-oriented programming - the class.
-22. Inheritance?
+22. [Inheritance](./Classes/inheritance.md): Where you will learn about Rodents, Rats and Mice and why this is related to Kotlin.
 23. Visibility
-24. Android generate a dice class.
+24. Android generate a dice class. Generate a Coin class, which is a two-sided dice. Generate a parent class dice and inherit from it to generate a 'standard' dice and a coin-dice.
 
 Data classes
 
