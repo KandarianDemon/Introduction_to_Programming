@@ -54,16 +54,15 @@ Programming Tools
 5. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
 6. And change the displayed text
 
-#### 2. Functions (and Nullability)
+#### 2. Functions (and Nullability?)
 7. Nullability (or leave this out for now?)
 8. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
 10. Android Button setzt Variable plus text input field (for the fun of it)
 
-#### 3. Loops
+#### 3. Control statements
 10. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
 11. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
 12. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
-13. when: after introduction of ranges
 14. Android: (i) Count how many times you pressed a button (ii) generate random number and display it
 
 #### 4. Collections
@@ -78,10 +77,8 @@ Programming Tools
 
 21. [Classes](./Classes/classes.md): Where you will have first contact with the basic unit of object-oriented programming - the class.
 22. [Inheritance](./Classes/inheritance.md): Where you will learn about Rodents, Rats and Mice and why this is related to Kotlin.
-23. Visibility
+23. [Visibility](./Classes/visibility.md): Where you will hide variables and functions from outside observers.
 24. Android generate a dice class. Generate a Coin class, which is a two-sided dice. Generate a parent class dice and inherit from it to generate a 'standard' dice and a coin-dice.
-
-Data classes
 
 #### 6. MVVM
 
@@ -89,7 +86,14 @@ Data classes
 #### 7. Navigation
 
 
-#### 8. git, github, gitpages, Dokka, Testing :o
+#### 8. git+github, gitpages, Dokka, Testing :o
+
+**Git and GitHub**
+Just view the [Git for Android Developers Series](https://www.youtube.com/watch?v=zqo08bQXU4Q&list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS) and get your own version of our DiceApp up to GitHub.
+
+**Dokka**
+
+**Testing**
 
 
 #### Program your own App!
