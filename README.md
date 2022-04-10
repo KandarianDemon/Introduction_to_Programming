@@ -86,12 +86,12 @@ Programming Tools
 #### 7. Navigation
 
 
-#### 8. git+github, gitpages, Dokka, Testing :o
+#### 8. Programming Tools
 
 **Git and GitHub**
 Just view the [Git for Android Developers Series](https://www.youtube.com/watch?v=zqo08bQXU4Q&list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS) and get your own version of our DiceApp up to GitHub.
 
-**Dokka**
+[Documentation](./ProgrammingTools/documentation.md)
 
 **Testing**
 
