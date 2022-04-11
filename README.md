@@ -61,10 +61,10 @@ Programming Tools
 8. [Android: Add a Button](./DiceApp/addbutton.md): Wehre you will add a Button which changes it text when clicked.
 
 #### 3. Control statements
-10. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
-11. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
-12. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
-14. Android: (i) switch button between 'click me! and 'I was Clicked' (ii) Count how many times you pressed a button (iii) generate random number and display it in a new textfield
+9. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
+10. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
+11. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
+12. [Android: Add real functionality to button](./DiceApp/addfunctionstobutton.md): Where you will add some real functionality to your button.
 
 #### 4. Collections
 15. Exceptions (for capture {} and to know what they are)
