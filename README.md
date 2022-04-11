@@ -67,24 +67,24 @@ Programming Tools
 12. [Android: Add real functionality to button](./DiceApp/addfunctionstobutton.md): Where you will add some real functionality to your button.
 
 #### 4. Collections
-15. Exceptions (for capture {} and to know what they are)
-16. [Lists](./Collections/lists.md): Where you will work with a container that can hold multiple things
-17. [Sets](./Collections/sets.md): Where you will generate Containers which contain just unique elements.
-18. [Maps](./Collections/maps.md): Where you will learn to build a key-value stat structure.
-19. [Summary](./Collections/wrap_up.md): Just a summary of all these Collections plus some additional cool functions to work with them.
-20. Android: Generate a list of the random values and display this growing list in a text field.
+13. [Lists](./Collections/lists.md): Where you will work with a container that can hold multiple things
+14. [Sets](./Collections/sets.md): Where you will generate Containers which contain just unique elements.
+15. [Maps](./Collections/maps.md): Where you will learn to build a key-value stat structure.
+16. [Summary](./Collections/wrap_up.md): Just a summary of all these Collections plus some additional cool functions to work with them.
+17. Android: Generate a list of the random values and display this growing list in a text field.
 
 #### 5. Classes
+18. [Classes](./Classes/classes.md): Where you will have first contact with the basic unit of object-oriented programming - the class.
+19. [Inheritance](./Classes/inheritance.md): Where you will learn about Rodents, Rats and Mice and why this is related to Kotlin.
+20. [Visibility](./Classes/visibility.md): Where you will hide variables and functions from outside observers.
+21. Android generate a dice class. Generate a Coin class, which is a two-sided dice. Generate a parent class dice and inherit from it to generate a 'standard' dice and a coin-dice.
 
-21. [Classes](./Classes/classes.md): Where you will have first contact with the basic unit of object-oriented programming - the class.
-22. [Inheritance](./Classes/inheritance.md): Where you will learn about Rodents, Rats and Mice and why this is related to Kotlin.
-23. [Visibility](./Classes/visibility.md): Where you will hide variables and functions from outside observers.
-24. Android generate a dice class. Generate a Coin class, which is a two-sided dice. Generate a parent class dice and inherit from it to generate a 'standard' dice and a coin-dice.
+#### 6. MVVM + View binding
 
-#### 6. MVVM
+22. [ViewModels](./ViewmodelAndViewBinding/viewmodel.md): Where you will keep information even when rotating your phone
 
 
-#### 7. Navigation
+#### 7. Navigation + RecyclerView
 
 
 #### 8. Programming Tools
