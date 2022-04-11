@@ -2,15 +2,15 @@
 
 ### Overview
 
-#### Goal
-
-In this course you will learn how to program simple android apps in Kotlin. In the process, you will be introduced to the basics of imperative and Object-Oriented Programming. You will use industry standard software development tools to produce reliable, readable and extensible code.
-
 #### Why might this course be interesting for you?
 
 Did you again search through the whole Play Store but did not find the fitting app? Why not just write your own? Too difficult? This course will teach you how you can program your own Android App.
 
 In this course you will learn the programming language [Kotlin](https://kotlinlang.org/) and use it to program your own Android Apps. In 2019, Google announced that Android development is [Kotlin first](https://android-developers.googleblog.com/2019/12/androids-commitment-to-kotlin.html). In 2020, 70% of the top 1000 apps on the Play Store were written in Kotlin. But there is more. You can program your own web services (backend) and web clients (frontend) in Kotlin. Additionally, you can even use Kotlin for data science! So you can be sure that you are learning a language wich is relevant today and will stay relevant in the future. This [summary Video](https://www.youtube.com/watch?v=CQlBQ5tfbHE&list=PLlFc5cFwUnmzT4cgLOGJYGnY6j0W2xoFA&index=2) gives you an impression which universities use Kotlin in education and why they do so.
+
+#### Goal
+
+In this course you will learn how to program simple android apps in Kotlin. In the process, you will be introduced to the basics of imperative and Object-Oriented Programming. You will use industry standard software development tools to produce reliable, readable and extensible code.
 
 #### Course Structure
 
@@ -43,6 +43,8 @@ Programming Tools
 - Documentation
 - Testing
 
+---
+
 ### Teaching Units
 
 #### 1. Setup and Variables
@@ -53,11 +55,10 @@ Programming Tools
 4. [Data Types](./VariablesAndDataTypes/datatypes.md): Where you store different things in variables.
 5. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
 
-#### 2. Functions (and Nullability?)
-7. Nullability (or leave this out for now?)
-8. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
-9. And change the displayed text
-10. Android Button setzt text
+#### 2. Functions
+6. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
+7. And change the displayed text
+8. Android Button setzt text
 
 #### 3. Control statements
 10. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
