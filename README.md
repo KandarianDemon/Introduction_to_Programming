@@ -58,7 +58,7 @@ Programming Tools
 #### 2. Functions
 6. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
 7. [Android: Change Text](./DiceApp/changetext.md): Where you will change the text of a TextView programmatically.
-8. [Android: Add a Button](): Wehre you will add a Button which changes it text when clicked.
+8. [Android: Add a Button](./DiceApp/addbutton.md): Wehre you will add a Button which changes it text when clicked.
 
 #### 3. Control statements
 10. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
