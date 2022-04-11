@@ -8,7 +8,7 @@ In this course you will learn how to program simple android apps in Kotlin. In t
 
 #### Why might this course be interesting for you?
 
-Did you ever want to write your own Android App? Did you want to learn coding? Did you want to give your CV a special edge? Then this course might be interesting for you.
+Did you again search through the whole Play Store but did not find the fitting app? Why not just write your own? Too difficult? This course will teach you how you can program your own Android App.
 
 In this course you will learn the programming language [Kotlin](https://kotlinlang.org/) and use it to program your own Android Apps. In 2019, Google announced that Android development is [Kotlin first](https://android-developers.googleblog.com/2019/12/androids-commitment-to-kotlin.html). In 2020, 70% of the top 1000 apps on the Play Store were written in Kotlin. But there is more. You can program your own web services (backend) and web clients (frontend) in Kotlin. Additionally, you can even use Kotlin for data science! So you can be sure that you are learning a language wich is relevant today and will stay relevant in the future. This [summary Video](https://www.youtube.com/watch?v=CQlBQ5tfbHE&list=PLlFc5cFwUnmzT4cgLOGJYGnY6j0W2xoFA&index=2) gives you an impression which universities use Kotlin in education and why they do so.
 
@@ -52,18 +52,18 @@ Programming Tools
 3. [Variables](./VariablesAndDataTypes/variables.md): Where you will learn about two different types of variables in Kotlin.
 4. [Data Types](./VariablesAndDataTypes/datatypes.md): Where you store different things in variables.
 5. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
-6. And change the displayed text
 
 #### 2. Functions (and Nullability?)
 7. Nullability (or leave this out for now?)
 8. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
-10. Android Button setzt Variable plus text input field (for the fun of it)
+9. And change the displayed text
+10. Android Button setzt text
 
 #### 3. Control statements
 10. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
 11. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
 12. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
-14. Android: (i) Count how many times you pressed a button (ii) generate random number and display it
+14. Android: (i) switch button between 'click me! and 'I was Clicked' (ii) Count how many times you pressed a button (iii) generate random number and display it in a new textfield
 
 #### 4. Collections
 15. Exceptions (for capture {} and to know what they are)

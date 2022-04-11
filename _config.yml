@@ -1,2 +1,11 @@
 title: Introduction to Programming
-theme: jekyll-theme-slate
+show_downloads: false
+github:
+  is_project_page: false
+  is_project_footer: true
+theme: jekyll-theme-cayman
+relative_links:
+  enabled:     true
+  collections: false
+plugins:
+  - jekyll-seo-tag
