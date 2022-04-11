@@ -53,12 +53,12 @@ Programming Tools
 2. [Hello World](./HelloWorld/helloworld.md): Where you will run yor first Kotlin program.
 3. [Variables](./VariablesAndDataTypes/variables.md): Where you will learn about two different types of variables in Kotlin.
 4. [Data Types](./VariablesAndDataTypes/datatypes.md): Where you store different things in variables.
-5. [Your First Android Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
+5. [Android: Your First Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
 
 #### 2. Functions
 6. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
-7. And change the displayed text
-8. Android Button setzt text
+7. [Android: Change Text](./DiceApp/changetext.md): Where you will change the text of a TextView programmatically.
+8. [Android: Add a Button](): Wehre you will add a Button which changes it text when clicked.
 
 #### 3. Control statements
 10. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
