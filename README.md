@@ -81,13 +81,18 @@ Programming Tools
 
 #### 6. MVVM + View binding
 
-22. [ViewModels](./ViewmodelAndViewBinding/viewmodel.md): Where you will keep information even when rotating your phone
+22. [ViewModels](DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
 
 
-#### 7. Navigation + RecyclerView
+#### 7. Navigation 
 
 
-#### 8. Programming Tools
+#### 8. RecyclerView
+
+
+#### 9. Programming Tools
+
+I don't see this as an extra 'lecture'. Work through these topics while programming your own app and gradually start adopting them.
 
 **Git and GitHub**
 Just view the [Git for Android Developers Series](https://www.youtube.com/watch?v=zqo08bQXU4Q&list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS) and get your own version of our DiceApp up to GitHub.
