@@ -82,6 +82,7 @@ Programming Tools
 #### 6. MVVM + View binding
 
 22. [ViewModels](DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
+23. [View Binding](DiceApp/viewbinding.md): Where you will learn a cooler way to interact with your UI elements.
 
 
 #### 7. Navigation 
