@@ -71,7 +71,7 @@ Programming Tools
 14. [Sets](./Collections/sets.md): Where you will generate Containers which contain just unique elements.
 15. [Maps](./Collections/maps.md): Where you will learn to build a key-value stat structure.
 16. [Summary](./Collections/wrap_up.md): Just a summary of all these Collections plus some additional cool functions to work with them.
-17. Android: Generate a list of the random values and display this growing list in a text field.
+17. [Android: Store values in list](./DiceApp/randomvaluelist.md): Where you will generate a list of the random values and display this growing list in a text field.
 
 #### 5. Classes
 18. [Classes](./Classes/classes.md): Where you will have first contact with the basic unit of object-oriented programming - the class.
