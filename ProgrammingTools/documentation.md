@@ -49,8 +49,9 @@ If you have more extensive documentation, you might want to generate specific we
 
 #### GitHub Pages
 
-Go to the 'Setting' tab. On the left, scroll down to 'Pages' and select. As source, use the Branch 'master' and as directory choose '/docs' (Hey, we are building extensive documentain, so we better put all this into an extra directory!). Choose a theme (how should your side look) and you're ready to go. On top of the page you see an URL, click it and be happy about your own documentation web side!
+Go to the 'Setting' tab. On the left, scroll down to 'Pages' and select. As source, use the Branch 'master' and as directory choose '/docs' (Hey, we are building extensive documentation, so we better put all this into an extra directory!). Choose a theme (how should your side look) and you're ready to go. On top of the page you see an URL, click it and be happy about your own documentation web side!
 
+Te cool thing is, that you now can use all the Git / GitHub features in the development of your web side. That also means, that you can fork this course, make changes and send me a Pull request, and I can add your input directly to this course :-)
 
 ---
 

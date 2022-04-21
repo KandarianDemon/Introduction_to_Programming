@@ -94,15 +94,15 @@ Programming Tools
 #### 8. RecyclerView
 
 
-#### 9. Programming Tools
+### Programming Tools
 
 I don't see this as an extra 'lecture'. Work through these topics while programming your own app and gradually start adopting them.
 
-26. [Documentation](./ProgrammingTools/documentation.md)
-27. [Versioning](./ProgrammingTools/git.md)
-28. [Testing](./ProgrammingTools/testing.md)
+1. [Documentation](./ProgrammingTools/documentation.md)
+2. [Versioning](./ProgrammingTools/git.md)
+3. [Testing](./ProgrammingTools/testing.md)
 
-#### Program your own App!
+### Program your own App!
 
 #### Final Unit
 
