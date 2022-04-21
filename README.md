@@ -82,11 +82,13 @@ Programming Tools
 
 #### 6. MVVM + View binding
 
-22. [Android: ViewModels](DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
-23. [Android: View Binding](DiceApp/viewbinding.md): Where you will learn a cooler way to interact with your UI elements.
+23. [Android: ViewModels](DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
+24. [Android: View Binding](DiceApp/viewbinding.md): Where you will learn a cooler way to interact with your UI elements.
 
 
-#### 7. Navigation 
+#### 7. Navigation
+
+25. [Android: Navigation](./DiceApp/navigation.md): Where you will add a new fragment to your app and will use jetpack navigation to move between your two pages
 
 
 #### 8. RecyclerView
@@ -96,13 +98,9 @@ Programming Tools
 
 I don't see this as an extra 'lecture'. Work through these topics while programming your own app and gradually start adopting them.
 
-**Git and GitHub**
-Just view the [Git for Android Developers Series](https://www.youtube.com/watch?v=zqo08bQXU4Q&list=PLQkwcJG4YTCQTEk4J4btiOJBV0PhKjJVS) and get your own version of our DiceApp up to GitHub.
-
-[Documentation](./ProgrammingTools/documentation.md)
-
-**Testing**
-
+26. [Documentation](./ProgrammingTools/documentation.md)
+27. [Versioning](./ProgrammingTools/git.md)
+28. [Testing](./ProgrammingTools/testing.md)
 
 #### Program your own App!
 
