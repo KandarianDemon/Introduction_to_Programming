@@ -1,5 +1,15 @@
 ## An introductory course to programming (not only) for Biologists
 
+### Content
+
+[What is this course about?](#overview)
+
+[Learn Kotlin and Android Programming](#teaching-units)
+
+[Use up-to-date programming Tools](#programming-tools)
+
+[Program your own app (and deploy it to the Play Store)](#program-your-own-app)
+
 ### Overview
 
 #### Why might this course be interesting for you?
@@ -55,10 +65,14 @@ Programming Tools
 4. [Data Types](./VariablesAndDataTypes/datatypes.md): Where you store different things in variables.
 5. [Android: Your First Program](./DiceApp/emptyproject.md): Where you will generate your first Android program!
 
+[Bonus Section](./ProgrammingTools/git.md): Get a first idea about versioning (whoa, what's that???) by working through the Theory section.
+
 #### 2. Functions
 6. [Functions](./Functions/functions.md): Where you will give parts of your code a name to execute from everywhere in your code. 
 7. [Android: Change Text](./DiceApp/changetext.md): Where you will change the text of a TextView programmatically.
-8. [Android: Add a Button](./DiceApp/addbutton.md): Wehre you will add a Button which changes it text when clicked.
+8. [Android: Add a Button](./DiceApp/addbutton.md): Where you will add a Button which changes it text when clicked.
+
+[Bonus Section](./ProgrammingTools/git.md): Put all your App code into a repository by following the first action point.
 
 #### 3. Control statements
 9. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
@@ -80,6 +94,8 @@ Programming Tools
 21. [Android: generate a dice class](./DiceApp/classes.md): Where you will code your first class and extract functionality from the fragment into the class.
 22. [Android: generate a coin class using inheritance](./DiceApp/inheritance.md): Where you will use inheritance to generate a new Coin class.
 
+[Bonus Section](./ProgrammingTools/documentation.md): Learn how to document your code! Check the 'Code Documentation' and 'API Documentation' sections and install Dokka!
+
 #### 6. MVVM + View binding
 
 23. [Android: ViewModels](DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
@@ -93,14 +109,17 @@ Programming Tools
 
 #### 8. RecyclerView
 
+---
 
 ### Programming Tools
 
-I don't see this as an extra 'lecture'. Work through these topics while programming your own app and gradually start adopting them.
+I don't see this as an extra 'lecture'. Work through these topics while programming your own app and gradually start adopting them. Still, I sprinkled some of the topics as 'bonus sections' in the Teaching units.
 
-1. [Documentation](./ProgrammingTools/documentation.md)
-2. [Versioning](./ProgrammingTools/git.md)
+1. [Versioning](./ProgrammingTools/git.md)
+2. [Documentation](./ProgrammingTools/documentation.md)
 3. [Testing](./ProgrammingTools/testing.md)
+
+---
 
 ### Program your own App!
 
