@@ -63,7 +63,7 @@ Programming Tools
 #### 3. Control statements
 9. [if Statements (and Booleans)](./ControlStatements/ifstatements.md): Where you will learn how to test for conditions and then conditionally execute code.
 10. [while](./ControlStatements/while.md): Where you will find a first way to run the same code multiple time.
-11. [for and ranges](./ControlStatements/for.md): Where you will execute a code block for a given number of times.
+11. [for and ranges](./blob/ControlStatements/for.md): Where you will execute a code block for a given number of times.
 12. [Android: Add real functionality to button](./DiceApp/addfunctionstobutton.md): Where you will add some real functionality to your button.
 
 #### 4. Collections
