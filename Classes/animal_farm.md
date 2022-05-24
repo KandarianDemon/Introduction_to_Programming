@@ -17,7 +17,7 @@ The farm starts off with 10 Individuals in each barn. To breed the animals, you 
 If breeding was successful, however, a new Animal of the given species is added to the barn. After breeding, the parents’ health is reduced by 20 points. To restore health points, the animals need to be fed, or they need to Sleep(). 
 </br>
 
-To solve this, just turn the Atomic Kotlin exercises for inspiration :-)
+To solve this, just turn to the Atomic Kotlin exercises for inspiration :-)
 
 ## Optional
 
