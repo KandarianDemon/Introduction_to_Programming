@@ -77,7 +77,8 @@ Programming Tools
 18. [Classes](./Classes/classes.md): Where you will have first contact with the basic unit of object-oriented programming - the class.
 19. [Inheritance](./Classes/inheritance.md): Where you will learn about Rodents, Rats and Mice and why this is related to Kotlin.
 20. [Visibility](./Classes/visibility.md): Where you will hide variables and functions from outside observers.
-21. Android generate a dice class. Generate a Coin class, which is a two-sided dice. Generate a parent class dice and inherit from it to generate a 'standard' dice and a coin-dice.
+21. [Exercise](./Classes/Animal Farm.md): Where you will write a simple program.
+22. Android generate a dice class. Generate a Coin class, which is a two-sided dice. Generate a parent class dice and inherit from it to generate a 'standard' dice and a coin-dice.
 
 #### 6. MVVM + View binding
 
