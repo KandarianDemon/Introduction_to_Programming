@@ -9,8 +9,8 @@ To keep the Farm running, he needs to feed the animals, check their health statu
 ## The task
 In this exercise, you’re supposed to implement a simple farm with a variety of different animals. Since Old MacDonald is a very capitalistic farmer, he seeks to grow his business and sell his animals.
 So, your first basic task is to implement a Farm-class and different species of animals, which inherit from an Animal-class. Small hint: The different “barns” can simply be lists of the animals :wink:.
-All animals share data like “age”, “health”, “sex”, “diet”, “size” or functions like<span style="color:orange">Eat() , Sleep(), Shout()</span>  but differ in other aspects. A Monkey has an additional function <span style="color:orange">Climb()</span> or a Bird a function <span style="color:orange">Fly()</span> . 
-A cows <span style="color:orange">Shout()</span>.-Function should return “Moooo!”, whereas a pigs Shout()-Function should return “Oink!”
+All animals share data like “age”, “health”, “sex”, “diet”, “size” or functions like<span style="color:blue">Eat() , Sleep(), Shout()</span>  but differ in other aspects. A Monkey has an additional function <span style="color:blue">Climb()</span> or a Bird a function <span style="color:blue">Fly()</span> . 
+A cows <span style="color:blue">Shout()</span>.-Function should return “Moooo!”, whereas a pigs Shout()-Function should return “Oink!”
 <br>
 
 The farm starts off with 10 Individuals in each barn. To breed the animals, you need to check their compatibility, meaning their species, their sex and their health status. Full health = 100. If one of the animals’ health is below 50, breeding will not be successful.
