@@ -94,6 +94,8 @@ Programming Tools
 
 <button id="submit">Click Me!</button>
 
+<button id="submit">Second Button!!</button>
+
 
 #### 7. Navigation 
 
