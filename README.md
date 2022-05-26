@@ -85,6 +85,8 @@ Programming Tools
 23. [ViewModels](DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
 24. [View Binding](DiceApp/viewbinding.md): Where you will learn a cooler way to interact with your UI elements.
 
+<button type="button">Click Me!</button>
+
 
 #### 7. Navigation 
 
