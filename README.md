@@ -106,7 +106,7 @@ Programming Tools
 }
 </style>
 
-<button type="button">Click Me!</button>
+<button id="submit">Click Me!</button>
 
 
 #### 7. Navigation 
