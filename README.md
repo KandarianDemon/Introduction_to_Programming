@@ -85,6 +85,27 @@ Programming Tools
 23. [ViewModels](DiceApp/viewmodel.md): Where you will keep information even when rotating your phone
 24. [View Binding](DiceApp/viewbinding.md): Where you will learn a cooler way to interact with your UI elements.
 
+
+<style type="text/css">
+#submit {
+ background-color: #bbb;
+ padding: .5em;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ border-radius: 6px;
+ color: #fff;
+ font-family: 'Oswald';
+ font-size: 20px;
+ text-decoration: none;
+ border: none;
+}
+#submit:hover {
+ border: none;
+ background: orange;
+ box-shadow: 0px 0px 1px #777;
+}
+</style>
+
 <button type="button">Click Me!</button>
 
 
